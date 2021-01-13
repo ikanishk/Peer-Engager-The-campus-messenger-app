@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710766318562",
+    "firebase_url": "https://messenger-ccfee.firebaseio.com",
+    "project_id": "messenger-ccfee",
+    "storage_bucket": "messenger-ccfee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710766318562:android:74a511062776b62c5f9fbb",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710766318562-vgfkuonk7n4sae8phhdvngdf782tmivj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messenger",
+            "certificate_hash": "b4375afd5c74867024bd5817c19d57c6545d5234"
+          }
+        },
+        {
+          "client_id": "710766318562-gi4pl6ssv3aivf61n866hj6s6ib2pv1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkSOvov7E68sTtiAf2SaexsHzOO65B1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710766318562-gi4pl6ssv3aivf61n866hj6s6ib2pv1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

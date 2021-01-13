@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="welcome_to_whatsapp" />
+    <string name="next">next</string>
+    <string name="verify_number">Verify %s</string>
+    <string name="waiting_text">Waiting to automatically detect an SMS sent to %s wrong number?</string>
+    <string name="Seconds_remaining">Seconds Remaining %d</string>
+</resources>
